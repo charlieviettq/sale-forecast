@@ -1,0 +1,8 @@
+data/
+dev/
+notebooks/
+tests/
+.git/
+**/__pycache__/
+artifacts/model.txt
+artifacts/submission.csv

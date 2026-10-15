@@ -1,0 +1,10 @@
+data/raw/*.csv
+dev/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+reports/
+artifacts/model.txt
+artifacts/submission.csv
+site/
